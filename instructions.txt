@@ -1,3 +1,5 @@
+0. create project in unity
+
 1. Create a .gitignore file in the root directory of the Unity project.
 2. Initialize a Git Repository:
 	-Open cmd prompt in the Unity project directory
